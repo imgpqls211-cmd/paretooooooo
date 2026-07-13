@@ -1,0 +1,6 @@
+{
+  "name": "심층 정책 파레토 분석기",
+  "description": "정책안/뉴스를 입력받아 단순 효율성 이면에 가려진 피해 집단과 이익 집단을 파레토 분석하고 최적화 솔루션을 제안합니다.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
